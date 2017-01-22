@@ -1,0 +1,16 @@
+--- !ruby/object:Hangman
+guesses:
+- p
+- u
+- i
+turn: 4
+word:
+- t
+- e
+- s
+- t
+guessed_word:
+- t
+- _
+- _
+- t
